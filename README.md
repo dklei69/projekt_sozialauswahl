@@ -1,4 +1,5 @@
-# mitarbeiter_generator
+# Algorythmus Sozialauswahl
+
 Hallo liebe Kollegen,
 hier ist ein kleines Projekt zu unserem Fit-Recovery-Unsinn.
 
