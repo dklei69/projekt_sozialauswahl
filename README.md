@@ -13,7 +13,7 @@ Im ersten Modell geht es um eine allgemeine Entlassungsempfehlung nach unserer M
 Im zweiten Modell habe ich die Variable Arbeitsvertrag hinzugefügt, die verschiedene Stundenverträge einberechnet. Ich bin dann nicht von einer Stellenreduzierung ausgeangen, sondern von einem Gesamtstundenumfang, der eingespart werden soll.
 Das gleiche Ergebnis mit der prozentualen Übersetzung der Teilzeitstellen nimmt sich das dritte Modell vor.
 
-Und im dritten Modell fallen einige MA aus dem Modell, die entweder im BR engagiert sind oder Spezialaufgaben ausführen. 
+Und im vierten Modell fallen einige MA aus dem Modell, die entweder im BR engagiert sind oder Spezialaufgaben ausführen. 
 
 
 
