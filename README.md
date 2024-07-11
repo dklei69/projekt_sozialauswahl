@@ -2,7 +2,7 @@
 Hallo liebe Kollegen,
 ich habe ein bisschen herumprobiert.
 
-Meine Frage war, ob es möglich ist, ein Algorythmus zu schreiben, der automatisch die Punkte aller wichtigen Parameter unserer Sozialauswahl berechnet und in einer Tabelle zusammen mit einer Entlassungsempfehlung speichert.
+Meine Frage war, ob es möglich ist, ein Algorythmus zu schreiben, der automatisch die Punkte aller wichtigen Parameter der Sozialauswahl berechnet und in einer Tabelle zusammen mit einer Entlassungsempfehlung speichert.
 
 Als ersten Schritt habe ich einen mitarbeiter_generator gebaut, denn es ging ja darum, erst einmal herauszufinden, ob das Konzept überhaupt funktioniert. 
 Dazu wird ein Betrieb mit 40 MA angenommen, der mit einer Personalreduzierung von 10 Stellen (bzw 10 FTE) plant.
